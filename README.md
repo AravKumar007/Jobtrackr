@@ -147,4 +147,3 @@ applied → interview → offer
 
 ---
 
-Built by [Your Name] · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
