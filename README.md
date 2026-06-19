@@ -1,6 +1,6 @@
 # JobTrackr API
 
-An AI-powered job application tracker REST API built with Flask, PostgreSQL, JWT auth, and Claude AI.
+An AI-powered job application tracker REST API built with Flask, PostgreSQL, JWT auth.
 
 **Live demo:** https://your-app.onrender.com  
 **Swagger docs:** https://your-app.onrender.com/docs
