@@ -48,6 +48,15 @@ def create_app():
     app.register_blueprint(jobs_bp)
     app.register_blueprint(ai_bp)
 
+    # Root route
+    @app.route("/")
+    def index():
+        return jsonify({
+            "message": "JobTrackr API is running",
+            "docs": "/docs",
+            "health": "/health",
+        }), 200
+
     # Health check
     @app.route("/health")
     def health():
