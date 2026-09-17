@@ -2,9 +2,8 @@
 
 An AI-powered job application tracker REST API built with Flask, PostgreSQL, JWT auth.
 
-**Live demo:** [[https://your-app.onrender.com  ](https://jobtrackr-kvfp.onrender.com)](https://jobtrackr-kvfp.onrender.com/apidocs)
-**Swagger docs:** https://your-app.onrender.com/docs
-
+**Live demo:** https://jobtrackr-kvfp.onrender.com
+**Swagger docs:** https://jobtrackr-kvfp.onrender.com/docs
 ---
 
 ## Tech Stack
